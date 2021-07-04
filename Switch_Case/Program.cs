@@ -7,12 +7,13 @@ namespace Switch_Case
     {
         static void Main(string[] args)
         {
-            DateTime d1 = DateTime.Now;
+            Console.WriteLine("Olá Mundo!");
+            Console.WriteLine("Bom dia!");
+            Console.WriteLine("Como você está? ");
+            Console.ReadLine();
 
-            Console.WriteLine(d1.Kind);
 
 
-            
 
         }
     }
